@@ -18,7 +18,7 @@ Welcome to the Movies Browser, your go-to destination for exploring a broad coll
 - Styled-Components
 
 ## Demo
-https://thomasanders.github.io/MoviesBrowser-React/
+https://thomasanders.github.io/movies-browser-main/
 
 
 # Getting Started with Create React App
