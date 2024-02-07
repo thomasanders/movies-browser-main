@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/movies-browser/static/js/main.b2091789.js",
+    "static/js/787.94542015.chunk.js": "/movies-browser/static/js/787.94542015.chunk.js",
+    "static/media/shadow.png": "/movies-browser/static/media/shadow.7af90c84851ba6e1c981.png",
+    "static/media/rating.svg": "/movies-browser/static/media/rating.291f146da8ec732e66d3333dc945ea1b.svg",
+    "static/media/no-person.svg": "/movies-browser/static/media/no-person.6716bc99308e89bb37c550abed0e5962.svg",
+    "static/media/danger.svg": "/movies-browser/static/media/danger.03d75db4e1543675752ae39bd961dd61.svg",
+    "static/media/no-poster.svg": "/movies-browser/static/media/no-poster.cda38b23ceaf26a4b4eaf7a5bb9f297b.svg",
+    "index.html": "/movies-browser/index.html",
+    "static/media/no-backdrop.svg": "/movies-browser/static/media/no-backdrop.02189f4db2327d31f3834ce92ff19c4d.svg",
+    "static/media/paper-plane.svg": "/movies-browser/static/media/paper-plane.b4e0d2d757a4f4cc9a3365e2b4642f18.svg",
+    "static/media/next.svg": "/movies-browser/static/media/next.f77332196f1887fb79f8ff26f5bb66fc.svg",
+    "static/media/logo.svg": "/movies-browser/static/media/logo.63449c4464cb80d38017d27d1dc4f5b2.svg",
+    "static/media/prev.svg": "/movies-browser/static/media/prev.a2b16ccaea250bd085cdccfe92101bfa.svg",
+    "static/media/big-cloud.svg": "/movies-browser/static/media/big-cloud.52d3f691489f022b6cf95a5846d00d55.svg",
+    "static/media/track.svg": "/movies-browser/static/media/track.6eaf63d363ccbd6c43f3d9ddc8aa48dd.svg",
+    "static/media/small-cloud.svg": "/movies-browser/static/media/small-cloud.2d2a56549281642643eba9db74c8c902.svg",
+    "static/media/spinner.svg": "/movies-browser/static/media/spinner.f869124d9723d0bc7db5899855759a76.svg",
+    "static/media/search.svg": "/movies-browser/static/media/search.7920afd0b926ba1235785f5b4ddff2ab.svg",
+    "main.b2091789.js.map": "/movies-browser/static/js/main.b2091789.js.map",
+    "787.94542015.chunk.js.map": "/movies-browser/static/js/787.94542015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b2091789.js"
+  ]
+}
