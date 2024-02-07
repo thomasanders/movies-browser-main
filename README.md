@@ -6,7 +6,7 @@ Powered by  TMDB logo
 
 Welcome to the Movies Browser, your go-to destination for exploring a broad collection of movies and people in the film industry! This web application utilizes the power of TMDB to fetch comprehensive data, allowing users to search and discover information about their favorite movies and the talented individuals behind them.
 
-![Screen](https://github.com/thomasanders/MoviesBrowser-React/blob/main/public/Animation-AH.gif)
+![Screen](https://github.com/thomasanders/movies-browser-main/blob/main/Animation-AH.gif)
 ## Technologies used in project:
 - React
 - HTML
